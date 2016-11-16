@@ -12,7 +12,9 @@ a <- seq(1:100)
 a
 a[-1]
 
+
+
 b <- c(seq(1:10))
-c <- c("i", "am","testing")
+c <- c("I", "am","testing") # Bug fixed!
 d <- c(1,2,3)
 e <- c(4,5,6)
